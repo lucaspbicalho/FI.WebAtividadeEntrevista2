@@ -16,6 +16,7 @@ namespace FI.AtividadeEntrevista.BLL
         {
             DAL.DaoCliente cli = new DAL.DaoCliente();
             return cli.Incluir(cliente);
+			//laalala
         }
 
         /// <summary>
